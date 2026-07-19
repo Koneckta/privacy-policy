@@ -62,4 +62,4 @@ If you have questions about this Privacy Policy, please contact us at:
 
 **support@koneckta.com**
 
-Koneckta LLC
+Koneckta Limited
