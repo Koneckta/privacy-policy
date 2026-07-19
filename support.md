@@ -35,6 +35,6 @@ After revealing a fact, tap **Share this fact** and select one of the sharing op
 
 Read the [GeoScratch Privacy Policy](https://koneckta.github.io/privacy-policy/)
 
-GeoScratch is developed and maintained by **Koneckta LLC**.
+GeoScratch is developed and maintained by **Koneckta Limited**.
 
 _Last updated: July 19, 2026_
