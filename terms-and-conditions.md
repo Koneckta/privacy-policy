@@ -58,7 +58,7 @@ Third-party names, flags, symbols, and other materials remain the property of th
 
 ## 8. Privacy
 
-Our collection and use of personal information are described in the [GeoScratch Privacy Policy](https://koneckta.github.io/privacy-policy/).
+Our collection and use of personal information are described in the [GeoScratch Privacy Policy](https://koneckta.github.io/documents/).
 
 ## 9. App Availability and Changes
 
@@ -103,4 +103,4 @@ For questions about these Terms, contact:
 **Koneckta Limited**  
 Email: **support@koneckta.com** 
 
-Support: https://koneckta.github.io/privacy-policy/support
+Support: https://koneckta.github.io/documents/support
