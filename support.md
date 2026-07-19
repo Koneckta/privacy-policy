@@ -33,7 +33,7 @@ After revealing a fact, tap **Share this fact** and select one of the sharing op
 
 ## Privacy
 
-Read the [GeoScratch Privacy Policy](https://koneckta.github.io/privacy-policy/)
+Read the [GeoScratch Privacy Policy](https://koneckta.github.io/documents/)
 
 GeoScratch is developed and maintained by **Koneckta Limited**.
 
